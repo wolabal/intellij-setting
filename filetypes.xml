@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="WebRestController" type="CLASS" />
+      <mapping pattern="WebRestController.java" type="PLAIN_TEXT" />
       <mapping pattern="20191204_The_Nature_of_software_development.md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
